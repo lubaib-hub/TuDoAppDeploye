@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TuDoAppDeploye/static/css/main.03e6d372.css",
+    "main.js": "/TuDoAppDeploye/static/js/main.c72a0a27.js",
+    "index.html": "/TuDoAppDeploye/index.html",
+    "main.03e6d372.css.map": "/TuDoAppDeploye/static/css/main.03e6d372.css.map",
+    "main.c72a0a27.js.map": "/TuDoAppDeploye/static/js/main.c72a0a27.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03e6d372.css",
+    "static/js/main.c72a0a27.js"
+  ]
+}
